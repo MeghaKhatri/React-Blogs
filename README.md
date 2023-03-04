@@ -5,3 +5,5 @@
 2. JSX :- https://megha17.hashnode.dev/react-jsx
 3. CONDITION'S :- https://megha17.hashnode.dev/conditions-in-reactjs
 4. COMPONENT'S :- https://megha17.hashnode.dev/react-component
+5. PROP'S :- https://megha17.hashnode.dev/props
+6. ARROW FUNCTION :- https://megha17.hashnode.dev/arrow-function-in-react-js

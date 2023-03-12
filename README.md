@@ -1,5 +1,5 @@
 # React-Blogs
-## cover All Topic's
+## cover All Topic's of react js
 
 1. REACT Introduction :- https://megha17.hashnode.dev/react-introduction
 2. JSX :- https://megha17.hashnode.dev/react-jsx 

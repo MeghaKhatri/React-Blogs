@@ -12,4 +12,5 @@
 9. DE-STRUCTURING :- https://megha17.hashnode.dev/de-structuring
 10. EVENTS :- https://megha17.hashnode.dev/event
 11. LISTS AND KEYS :- https://megha17.hashnode.dev/list-and-keys 
-12.
+12. HOOKS AND USESTATE :- https://megha17.hashnode.dev/hooks-or-usestate-hook
+13. USEEFFECT :- https://megha17.hashnode.dev/useeffect-in-hooks
